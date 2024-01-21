@@ -1,0 +1,35 @@
+body{
+    background-image: url("./1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h1{
+    color: #C3C3C3;
+}
+.h2{
+    color: #C3C3C3;
+}
+.h3{
+    color: #FFF;
+}
+.h4{
+    color: #C3C3C3;
+}
+.h5{
+    color: #FFF;
+}
+.h6{
+    color: #C3C3C3;
+}
+.h7{
+    color: #C3C3C3;
+}
+.h8{
+    color: #FFF;
+}
+.h9{
+    color: #C3C3C3;
+}
+.h10{
+    color: #FFF;
+}
